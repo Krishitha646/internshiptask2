@@ -1,4 +1,4 @@
-# internshiptask2
+# Internshiptask2
 
 # File descriptions
 train.csv - the training set. Use this dataset for training your model.
