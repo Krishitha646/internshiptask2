@@ -1,9 +1,9 @@
 # Internship_task2
 
 # File descriptions
-train.csv - the training set. Use this dataset for training your model.
-test.csv - the test set. To deter manual "guess" predictions, Kaggle has supplemented the test set with additional "ignored" data. These are not counted in the scoring.
-
+train.csv -  dataset for training the model.
+test.csv - dataset for the testing the model.
+ 
 # Data fields
 Id : Restaurant id.
 Open Date : opening date for a restaurant
