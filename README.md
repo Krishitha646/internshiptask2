@@ -1,6 +1,6 @@
-# Internship_task2
+# learnsflow #datascience_task2
 
-# File descriptions
+# content
 train.csv -  dataset for training the model.
 test.csv - dataset for the testing the model.
  
